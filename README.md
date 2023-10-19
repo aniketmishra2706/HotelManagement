@@ -187,5 +187,5 @@ Special thanks to the Spring Boot and Java communities for providing valuable to
  
 <!-- Contact -->
 ## Contact
-For questions or feedback, please contact [Manisha Biswal](mailto:manishabiswal0227@gmail.com).
+For questions or feedback, please contact [Aniket Mishra](aniketmishra2728@gmail.com).
  
